@@ -48,3 +48,13 @@ At the end of the file add
 #define ST7920_DELAY_2 DELAY_NS(63)
 #define ST7920_DELAY_3 DELAY_NS(125)
 ```
+
+## MMU2 connector
+
+The MMU2 connector has the following pins from top to bottom (color correspond to the original Prusa MMU2 serial cable):
+
+ * +5V (Blue)
+ * TX (White)
+ * RX (Green)
+ * NC
+ * Hardware Reset (Brown)

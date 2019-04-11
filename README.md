@@ -51,7 +51,7 @@ At the end of the file add
 
 ## MMU2 connector
 
-The MMU2 connector has the following pins from top to bottom (color correspond to the original Prusa MMU2 serial cable):
+The MMU2 connector has the following pins from top to bottom (colors correspond to the original Prusa MMU2 serial cable):
 
  * +5V (Blue)
  * TX (White)
